@@ -1,0 +1,28 @@
+#first{color: blue;}
+#last{color: green;}
+td{color: red;}
+h1{font-family: 'Indie Flower', cursive;
+font-size: 3rem; text-align: center}
+#p1{font-size: 3rem;
+    color: red;
+text-align: center}
+table{text-align: center;
+font-size: 2rem}
+#p2{font-size: 20px;
+    color: darkblue;letter-spacing: 0.5rem;
+    text-decoration: underline;
+text-decoration-color: green;
+text-align: end;
+    background: rgba(130, 85, 168, 0.4);}
+table{background: rgb(183,222,237); /* Old browsers */
+    background: -moz-linear-gradient(45deg,  rgba(183,222,237,1) 0%, rgba(33,180,226,1) 46%, rgba(73,196,237,1) 52%, rgba(183,222,237,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,rgba(183,222,237,1)), color-stop(46%,rgba(33,180,226,1)), color-stop(52%,rgba(73,196,237,1)), color-stop(100%,rgba(183,222,237,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(45deg,  rgba(183,222,237,1) 0%,rgba(33,180,226,1) 46%,rgba(73,196,237,1) 52%,rgba(183,222,237,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(45deg,  rgba(183,222,237,1) 0%,rgba(33,180,226,1) 46%,rgba(73,196,237,1) 52%,rgba(183,222,237,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(45deg,  rgba(183,222,237,1) 0%,rgba(33,180,226,1) 46%,rgba(73,196,237,1) 52%,rgba(183,222,237,1) 100%); /* IE10+ */
+    background: linear-gradient(45deg,  rgba(183,222,237,1) 0%,rgba(33,180,226,1) 46%,rgba(73,196,237,1) 52%,rgba(183,222,237,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', endColorstr='#b7deed',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+body{background-image: url(bktwo);
+background-size:auto}
