@@ -2,10 +2,17 @@
 #last{color: green;}
 td{color: red;}
 h1{font-family: 'Indie Flower', cursive;
-font-size: 3rem; text-align: center}
+font-size: 3rem; text-align: center; width: 500px; height: 600px;
+text-shadow:0 0 10px #fff, 0 0 20px #00d2ff, 0 0 30px #00d2ff, 0 0 40px #00d2ff, 0 0 50px #00d2ff, 0 0 60px #00d2ff, 0 0 70px #00d2ff;
+}
+h1:hover{
+transform:rotate(360deg);
+transition:transform 2s ease;
+}
 #p1{font-size: 3rem;
     color: red;
-text-align: center}
+text-align: center;box-shadow:
+3px 3px 9px 3px lightskyblue inset;}
 table{text-align: center;
 font-size: 2rem}
 #p2{font-size: 20px;
@@ -26,3 +33,10 @@ table{background: rgb(183,222,237); /* Old browsers */
 }
 body{background-image: url(bktwo);
 background-size:auto}
+.war{
+    font-family: monospace;
+    background: url("doctor-who-matt-smith.jpg");
+    background-size: 2rem;
+    background-repeat: no-repeat;
+    padding: 0 0 0 3rem;
+}
