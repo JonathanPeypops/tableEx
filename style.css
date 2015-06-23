@@ -1,11 +1,16 @@
 h1{color: darkred;
     background: black;
     text-align: center}
+h2:hover{
+    transform:rotate(360deg);
+    transition:transform 2s ease;
+}
 b{ color: crimson}
 #p1{color: green}
-h2{color: darkslategrey}
+h2{color: darkslategrey;
+text-align: center}
 body{
-    background: #170000;}
+    background: url("iJJAdph.jpg");}
 header{background: #C20500}
 
 td,th{
