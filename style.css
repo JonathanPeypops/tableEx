@@ -1,31 +1,14 @@
-h1 {
-    color: darkred;
+h1{color: darkred;
     background: black;
-    text-align: center
-}
+    text-align: center}
+b{ color: crimson}
+#p1{color: green}
+h2{color: darkslategrey}
+body{
+    background: #170000;}
+header{background: #C20500}
 
-b {
-    color: crimson
-}
-
-#p1 {
-    color: green
-}
-
-h2 {
-    color: darkslategrey
-}
-
-body {
-    background: #170000;
-}
-
-header {
-    background: #C20500
-}
-
-td, th {
+td,th{
     color: white;
     text-align: center;
-    background-color: black
-}
+    background-color: black}
